@@ -2,4 +2,7 @@ body
 {
     color: red;
     background-color: aqua;
+    background: repeating-linear-gradient(to right, transparent, transparent 10px, rgba(0, 0, 0, 0.5) 10px, rgba(0, 0, 0, 0.5) 20px),
+repeating-linear-gradient(to bottom, transparent, transparent 10px, rgba(0, 0, 0, 0.5) 10px, rgba(0, 0, 0, 0.5) 20px);
+
 }
