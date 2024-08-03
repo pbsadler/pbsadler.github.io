@@ -1,8 +1,7 @@
 body
 {
     color: red;
-    background-color: aqua;
-    background-image: dark cracked knotted wood.jpg;
+    background-image: url(https://pbsadler.github.io/wood.jpg);
 
 
 }
