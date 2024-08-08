@@ -1,23 +1,10 @@
 body
 {
-
-        position: fixed;
-        top: 0;
-        width: 100%;
-        background-color: #333;
-        color: #fff;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 20px;
-        z-index: 999;
-        margin-top: 70px; /* Adjust this value to match the height of your navigation bar */
-        color: white;
-        background-image: url(https://pbsadler.github.io/wood.jpg);
-        background-repeat:no-repeat;
-        background-size: 2000px 2000px;
-    }
-
+    
+    color: white;
+    background-image: url(https://pbsadler.github.io/wood.jpg);
+    background-repeat:no-repeat;
+    background-size: 2000px 2000px;
     
 
 
